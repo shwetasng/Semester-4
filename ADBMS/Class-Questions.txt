@@ -5,4 +5,4 @@ Ques2. What are tasks that can be performed on the data
 Ques3. What is Metadata
 Ques4. What are the types of Data
 Ques5. Difference between Data and Information
-Ques6. Write applications of database
+Ques6. Write applications of database system
