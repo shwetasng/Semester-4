@@ -3,3 +3,5 @@
 - Ques2. Discuss 7 OSI layers
 - Ques3. Topology: Different types, Architecture, Advantages/Disadvantages, Applications, 
 - Ques4. No. of Nodes VS No. of connections
+- Ques5. What is a Hub and a Router?
+- 
