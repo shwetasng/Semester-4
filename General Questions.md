@@ -15,6 +15,7 @@ A host ID is a unique identifier used to identify a particular device on a compu
 A parity bit is a check bit, which is added to a block of data for error detection purposes. It is used to validate the integrity of the data. The value of the parity bit is assigned either 0 or 1 that makes the number of 1s in the message block either even or odd depending upon the type of parity. Parity check is suitable for single bit error detection only.
 ## 6. What are JAR files?
 ## 7. What is Cohesion and Coupling?
-## 8. 
+## 8. What are Optical Fibres?
+## 9. 
 
 
