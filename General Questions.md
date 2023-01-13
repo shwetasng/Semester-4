@@ -16,6 +16,6 @@ A parity bit is a check bit, which is added to a block of data for error detecti
 ## 6. What are JAR files?
 ## 7. What is Cohesion and Coupling?
 ## 8. What are Optical Fibres?
-## 9. 
+## 9. What are Servers? and What is a SSD?
 
 
