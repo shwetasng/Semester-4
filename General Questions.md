@@ -13,5 +13,8 @@ A Network ID is the unique identifier for a specific network on a larger network
 A host ID is a unique identifier used to identify a particular device on a computer network. On a TCP/IP network, a host ID is equivalent to the IP address assigned to the device. A network interface (also known as a network interface card, network adapter, LAN adapter, and by similar terms) is a computer hardware component that connects a computer to a computer network.
 ## 5. What is a parity bit?
 A parity bit is a check bit, which is added to a block of data for error detection purposes. It is used to validate the integrity of the data. The value of the parity bit is assigned either 0 or 1 that makes the number of 1s in the message block either even or odd depending upon the type of parity. Parity check is suitable for single bit error detection only.
+## 6. What are JAR files?
+## 7. What is Cohesion and Coupling?
+## 8. 
 
 
