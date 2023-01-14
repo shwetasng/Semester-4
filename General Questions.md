@@ -17,5 +17,8 @@ A parity bit is a check bit, which is added to a block of data for error detecti
 ## 7. What is Cohesion and Coupling?
 ## 8. What are Optical Fibres?
 ## 9. What are Servers? and What is a SSD?
+## 10. What is RAM and how does it work?
+[https://youtu.be/PVad0c2cljo](https://youtu.be/PVad0c2cljo)
+## 11.
 
 
