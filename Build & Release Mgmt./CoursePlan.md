@@ -1,0 +1,25 @@
+## Syllabus
+- UNIT-1: Introduction to Build and Release Management
+  - [ ] Introduction to Build and Release Management
+  - [ ] Introduction to Release and Release Management
+  - [ ] Build Abstraction
+  - [ ] Declarative Dependency Management
+- UNIT-2: Dependancy Management
+  - [ ] Using Repositories
+  - [ ] Dependency Identification
+  - [ ] Transitive Dependencies
+  - [ ] Dependancy Scope
+  - [ ] Example of Tools(Maven, Ant, Gradle)
+- UNIT-3: Documentation and Reporting
+  - [ ] Using a Site Life Cycle
+  - [ ] Advanced Site Configuration
+  - [ ] Generating Unit Test Reports
+  - [ ] Generating Code Coverage Reports
+- UNIT-4: Understanding a Release Cycle
+  - [ ] Project Release 
+  - [ ] Checking in Source Code
+  - [ ] Prepare Goal
+  - [ ] Clean Goal
+  - [ ] Perform Goal
+  - [ ] Complete Project Demonstration using Maven
+
