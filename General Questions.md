@@ -19,6 +19,7 @@ A parity bit is a check bit, which is added to a block of data for error detecti
 ## 9. What are Servers? and What is a SSD?
 ## 10. What is RAM and how does it work?
 [https://youtu.be/PVad0c2cljo](https://youtu.be/PVad0c2cljo)
-## 11.
+## 11. What is Public IP and Private IP?
+A public IP address identifies you to the wider internet so that all the information you're searching for can find you. A private IP address is used within a private network to connect securely to other devices within that same network.
 
 
