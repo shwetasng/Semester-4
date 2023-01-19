@@ -4,4 +4,7 @@
 - Ques3. Topology: Different types, Architecture, Advantages/Disadvantages, Applications, 
 - Ques4. No. of Nodes VS No. of connections
 - Ques5. What is a Hub and a Router?
-- 
+- Ques6. What is a DLL, MAC?
+- Ques7. Search about evolution of networks
+- Ques8. What is NET Traversal?
+- Ques9. 
