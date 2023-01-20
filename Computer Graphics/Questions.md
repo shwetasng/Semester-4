@@ -9,4 +9,6 @@
 - Ques4. What are filler pixels?
 - Ques5. Search about triangular pixels...how can they be used to eliminate jagged line with smooth and is it feasible to use them?
 - Ques6. Picket-Fense Problem?
-- Ques7. 
+- Ques7. What are Charcter User Interface?
+
+  Ans7. Character user interface, also known as command-line user interface or non graphical user interface, refers to the use of text commands, managed by a command-line interpreter, in order to communicate with a computer program.
