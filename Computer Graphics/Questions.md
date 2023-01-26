@@ -14,3 +14,6 @@
   Ans7. Character user interface, also known as command-line user interface or non graphical user interface, refers to the use of text commands, managed by a command-line interpreter, in order to communicate with a computer program.
   
 - Ques8. Human Computer Interaction?
+- Ques9. Read about earlier CPU architecture i.e., how cpu was divided into PPU and GPU.
+- Ques10. Read about when were dual core processors started and how they were initially and also about octal core processor.
+- 
