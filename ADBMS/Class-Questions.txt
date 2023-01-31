@@ -10,4 +10,6 @@ Ques7. Write Advantages/ Disadvantages and example of each kind of database
 Ques8. Discuss the roles and responsibilities of DBA( Database Administrator)
 Ques9. Write description of Database Models with pros and cons
 Ques10. Practice question having case studies for ER Models.
+Ques11. Differentiate between generalization, specialization and aggregation.
+Ques12. Design ER Diagrams and its relational schema.
 
