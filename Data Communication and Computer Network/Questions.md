@@ -7,4 +7,5 @@
 - Ques6. What is a DLL, MAC?
 - Ques7. Search about evolution of networks
 - Ques8. What is NET Traversal?
-- Ques9. 
+- Ques9. What is subnet mask?
+- Ques10. 
