@@ -23,5 +23,9 @@ A parity bit is a check bit, which is added to a block of data for error detecti
 A public IP address identifies you to the wider internet so that all the information you're searching for can find you. A private IP address is used within a private network to connect securely to other devices within that same network.
 ## 12. What is USP?
 It stands for Unique Selling Proposition...a feature or characteristic of a product, service etc that distinguishes it from others of a similar nature and makes it more appealing.
+## 13. What is NodeJs?
+Whenever a client requests something from the client side of the application what happens is , the request is first sent to the server and then in that server some processing or calculations goes on for the validation of the client side request and after doing all such validation a response is sent to the client side. Basically for doing all such calculations and processing , this NodeJs framework of JavaScript is used.
+
+For running our web applications outside the client’s browser , NodeJS is basically used as an open-source and cross platform JavaScript runtime environment.For running the server side applications we use this.For building the I/O intensive applications like video streaming sites ,online chatting applications and many other applications , it is used. Many established tech giant companies and newly created start-ups are using NodeJs framework in their company.
 
 
