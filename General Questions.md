@@ -27,5 +27,7 @@ It stands for Unique Selling Proposition...a feature or characteristic of a prod
 Whenever a client requests something from the client side of the application what happens is , the request is first sent to the server and then in that server some processing or calculations goes on for the validation of the client side request and after doing all such validation a response is sent to the client side. Basically for doing all such calculations and processing , this NodeJs framework of JavaScript is used.
 
 For running our web applications outside the client’s browser , NodeJS is basically used as an open-source and cross platform JavaScript runtime environment.For running the server side applications we use this.For building the I/O intensive applications like video streaming sites ,online chatting applications and many other applications , it is used. Many established tech giant companies and newly created start-ups are using NodeJs framework in their company.
+## 14. What is Jekyll?
+it is a static site generator written in Ruby. it transforms your plain text into static websites and blogs.
 
 
