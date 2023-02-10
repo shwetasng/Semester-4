@@ -29,5 +29,7 @@ Whenever a client requests something from the client side of the application wha
 For running our web applications outside the client’s browser , NodeJS is basically used as an open-source and cross platform JavaScript runtime environment.For running the server side applications we use this.For building the I/O intensive applications like video streaming sites ,online chatting applications and many other applications , it is used. Many established tech giant companies and newly created start-ups are using NodeJs framework in their company.
 ## 14. What is Jekyll?
 it is a static site generator written in Ruby. it transforms your plain text into static websites and blogs.
+## 15. What are version numbers?
+Version numbers usually consist of three numbers separated by dots. For example: 1.2.3 These numbers have names. The leftmost number (1) is called the major version. The middle number (2) is called the minor version. The rightmost number (3) is called the revision but it may also be referred to as a "point release" or "subminor version".
 
 
