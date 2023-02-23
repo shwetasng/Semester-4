@@ -25,6 +25,18 @@ Project Object Model (POM), which is an XML file that has all the information re
 
 
 - how is maven different from gradle?
+
+| Maven | Gradle |
+| --- | --- |
+| Maven is based on developing pure Java language-based software. |Gradle is based on developing domain-specific language projects. |
+| It uses Extensible Markup Language(XML) for creating project structure. | It uses a Groovy-based Domain-specific language(DSL) for creating project structure. |
+|Developing applications in a given time limit.| Developing applications by adding new features to them.|
+|It does not create local temporary files during software creation, and is hence – slower.| It performs better than maven as it optimized for tracking only current running task.|
+|	It is necessary to compile.| It avoids compilation.|
+|This tool is a known tool for many users and is easily available.| It is a new tool, which requires users to spend a lot of time to get used to it.|
+|This tool serves a limited amount of developers and is not that customizable.| This tool is highly customizable as it supports a variety of IDE’s|
+|It supports software development in Java, Scala, C#, and Ruby.| It supports software development in Java, C, C++, and Groovy.|
+
 - maven vs gradle vs ant
 - what do you understand by build.
 - explain the concept of build and release management.
