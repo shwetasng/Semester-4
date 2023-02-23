@@ -13,6 +13,17 @@
 
 ## Questions from Exam POV:
 - what is maven?
+
+Maven is a popular open-source build tool developed by the Apache Group to build, publish, and deploy several projects at once for better project management. The tool provides allows developers to build and document the lifecycle framework. 
+its purpose is to provide developers with:
+A comprehensive, maintainable, reusable, and simple model for projects. and 
+A set of tools and plug-ins that can interact with the declarative model.
+
+Maven is chiefly used for Java-based projects, helping to download dependencies, which refers to the libraries or JAR files. The tool helps get the right JAR files for each project as there may be different versions of separate packages. 
+
+Project Object Model (POM), which is an XML file that has all the information regarding project and configuration details. The POM has the description of the project, details regarding the versioning, and configuration management of the project. The XML file is located in the project home directory. When you execute a task, Maven searches for the POM in the current directory.
+
+
 - how is maven different from gradle?
 - maven vs gradle vs ant
 - what do you understand by build.
