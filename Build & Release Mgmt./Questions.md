@@ -12,7 +12,7 @@
 
 
 ## Questions from Exam POV:
-- what is maven?
+1. what is maven?
 
 Maven is a popular open-source build tool developed by the Apache Group to build, publish, and deploy several projects at once for better project management. The tool provides allows developers to build and document the lifecycle framework. 
 its purpose is to provide developers with:
@@ -24,7 +24,7 @@ Maven is chiefly used for Java-based projects, helping to download dependencies,
 Project Object Model (POM), which is an XML file that has all the information regarding project and configuration details. The POM has the description of the project, details regarding the versioning, and configuration management of the project. The XML file is located in the project home directory. When you execute a task, Maven searches for the POM in the current directory.
 
 
-- how is maven different from gradle?
+2. how is maven different from gradle?
 
 | Maven | Gradle |
 | --- | --- |
@@ -37,14 +37,32 @@ Project Object Model (POM), which is an XML file that has all the information re
 |This tool serves a limited amount of developers and is not that customizable.| This tool is highly customizable as it supports a variety of IDE’s|
 |It supports software development in Java, Scala, C#, and Ruby.| It supports software development in Java, C, C++, and Groovy.|
 
-- maven vs gradle vs ant
-- what do you understand by build.
-- explain the concept of build and release management.
-- lifecycle of maven build.
-- what do you understand by maven archetype?
-- give examples and utility of maven archetype
-- different types of repositories in maven.
-- explain the structure of repositories.
-- explain settings.xml and POM.xml
-- what is a parent POM file?
-- different types of POM files
+3. maven vs gradle vs ant
+
+| Maven | Gradle | Ant |
+| --- | --- | --- |
+|  |  |  |
+
+4. what do you understand by build.
+
+A build is a version of a program that, as a rule, is a pre-release version and is identified by a build number rather than by a release number.
+
+Simply put, a software build is a set of executable code that is ready for use by customers. The DevOps team compiles the source code, such as code in Java or C++, into binaries to make sure it's functional and test code quality before committing it.
+
+
+
+5. explain the concept of build and release management.
+6. lifecycle of maven build.
+7. what do you understand by maven archetype?
+
+In software development, a Maven archetype is a template or a blueprint that provides a starting point for creating a new project. An archetype includes the basic structure, configuration, and dependencies required for the project, and is typically designed to address a specific use case or project type. Archetypes can be thought of as pre-defined project templates that developers can use to quickly set up new projects with a pre-configured set of files, directories, and dependencies.
+
+Maven is a build automation tool used primarily for Java projects. It provides a way to manage project dependencies and build processes, and includes a vast library of pre-built plugins and archetypes that can be used to quickly create new projects. Using an archetype can save developers significant time and effort by providing a pre-configured starting point for a new project, rather than having to create everything from scratch.
+
+8. give examples and utility of maven archetype
+9. different types of repositories in maven.
+10. explain the structure of repositories.
+11. explain settings.xml and POM.xml
+12. what is a parent POM file?
+13. different types of POM files
+14. 
