@@ -110,4 +110,10 @@ Cycle.
 following Repositories used for Maven.
 a) Local Repository
 b) Central Repository
+18. What is the Difference between Documentation and Reporting? What is the significance 
+of Site Plugin and Site Goal?
+19. Why version control is important? Differentiate between CVS and SVN.
+20. What are the five major Environments in DevOps? Explain any two environments in 
+brief.
+
 
