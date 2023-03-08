@@ -88,3 +88,26 @@ Life Cycle.
 SVN. Explain following source code repositories with their comparison.
 a) Github
 b) BitBucket
+9. Maven is more superior to Ant tool. Explain its core features which makes it more
+popular than other tools in same category.
+10. Explain any Four Major development and deployment problems solved by a Build
+Management Tool like Maven, Ant etc.
+11. Write a short note on Process Documentation for a software Project.
+12. Why POM file is also known as the configuration file of Maven? Explain its
+significance in Maven Build Management Tool. Explain any two major component
+of Project Object Model.
+13. What is a Build? What are the various activities involved in Build Management 
+Process. Explain with Example.
+14. What do you mean by Dependency Scope? Explain various types of Dependency 
+Scopes in detail.
+15. Explain following type of documentation in detail.
+a) System Documentation
+b) User Documentation
+16. What are three Life Cycles in Maven? Discuss various phases of clean Life Cycle of 
+a Maven Project. Relate different Goals in corresponding phases of Clean Life 
+Cycle. 
+17. What are Repository and Dependency in Maven? Explain with an example the 
+following Repositories used for Maven.
+a) Local Repository
+b) Central Repository
+
