@@ -66,3 +66,25 @@ Maven is a build automation tool used primarily for Java projects. It provides a
 12. what is a parent POM file?
 13. different types of POM files
 14. 
+
+## PYQs
+1. What is the difference between Build and Release? Explain any One Activity of
+Build Management. 
+2. “AI & ML will foster DevOps growth”. Do you agree with this statement? Write
+some technical points of your agreement or disagreement of this statement. 
+3. What is the Significance of Apache Maven Tool? Write any four Build commands
+used in Maven with specifications.
+4. Explain Release Planning and Release Authorization activities of Release 
+Management Process. 
+5. Explain following Maven Goals in detail.
+a) Clean Goal
+b) Perform Goal
+6. What do you mean by Transitive Dependencies? Explain various features of 
+Transitive Dependencies.
+7. Define Build Life Cycle in Detail. Discuss various phases of Build (Default) Life 
+cycle of a Maven Project. Relate different Goals in corresponding phases of Build 
+Life Cycle. 
+8. What is the Significance of Source Code Repository? Differentiate between CVS and
+SVN. Explain following source code repositories with their comparison.
+a) Github
+b) BitBucket
