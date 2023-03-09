@@ -88,6 +88,32 @@ Multivalued dependencies (4NF, 5NF), domain key normal form
 2. Dependency Management
 3. Documenting and Reporting
 
+- Build
+- build management
+- four processes of build management
+- release management
+- four processes of release management
+- maven, clean, compile, test, install
+- maven installations and configuration
+- static code analysis(SonarQube)
+- Source code management on github
+- software testing
+- unit , integration and system testing
+- blackbox and whitebox testing
+- pom.xml
+- dependencies
+- repositories
+- best practices for BRM
+- build tools
+- comparison of various build tools
+- specifications of all build tools
+- process documentation
+- product documentation
+- Junit
+- CI/CD Pipeline
+- Site Plugin
+- Site Documentation
+
 ## LINUX AND AUTOMATION
 1. Introduction to Automation: Development Delivery Pipeline Overview, Automating the build pipeline, RAD, Code Geberation, MDA/MDD (Model-Driven Architecture/Development)
 2. Advantages of Automation: Scenarios where automation saves time and effort, Scenarios where automation prevent errors.
