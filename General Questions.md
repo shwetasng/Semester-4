@@ -31,5 +31,7 @@ For running our web applications outside the client’s browser , NodeJS is basi
 it is a static site generator written in Ruby. it transforms your plain text into static websites and blogs.
 ## 15. What are version numbers?
 Version numbers usually consist of three numbers separated by dots. For example: 1.2.3 These numbers have names. The leftmost number (1) is called the major version. The middle number (2) is called the minor version. The rightmost number (3) is called the revision but it may also be referred to as a "point release" or "subminor version".
+## 16. What is the use of flush in c programming?
+
 
 
