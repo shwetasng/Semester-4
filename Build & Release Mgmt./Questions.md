@@ -64,6 +64,15 @@ Maven is a build automation tool used primarily for Java projects. It provides a
 10. explain the structure of repositories.
 11. explain settings.xml and POM.xml
 12. what is a parent POM file?
+
+In Apache Maven, a parent POM (Project Object Model) file is an XML file that defines common configuration information for a set of related Maven projects. It is used to provide a central point for managing common project information such as the project's version, group ID, and dependencies.
+
+When a Maven project inherits from a parent POM, it automatically inherits the configuration defined in the parent. This allows you to share common configuration across multiple projects without duplicating the same configuration in each project's POM.
+
+To use a parent POM in a Maven project, you include the parent element in the child project's POM and specify the location of the parent POM. When you build the child project, Maven will first resolve the parent POM and then use its configuration to build the child project.
+
+Parent POMs are commonly used in multi-module Maven projects where multiple Maven projects share the same configuration. They can also be used in a single project to centralize configuration and avoid duplication.
+
 13. different types of POM files
 14. 
 
